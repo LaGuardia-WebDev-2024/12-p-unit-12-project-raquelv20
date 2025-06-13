@@ -7,8 +7,20 @@ html {
 
 img{
   border-radius: 30px;
+  color:blue;
 }
 
-h1 {
+h1:hover{
+  background-color:black;
+  color:pink;
   font-family: "Poetsen One", sans-serif;
+  
+}
+
+h3:hover{
+  background-color:black;
+  color:teal;
+}
+
+p{background-color:teal;
 }
